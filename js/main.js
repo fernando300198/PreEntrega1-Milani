@@ -7,7 +7,7 @@ const productos = [
         imagen: "./img/MOMO R1909.jpg",
         categoria: {
             nombre: "Volante",
-            id: "volante"
+            id: "Volantes"
         },
         precio: 60000
     },
@@ -17,7 +17,7 @@ const productos = [
         imagen: "./img/VERTEX KUMADORI.jpg",
         categoria: {
             nombre: "Volante",
-            id: "volante"
+            id: "Volantes"
         },
         precio: 180000
     },
@@ -28,7 +28,7 @@ const productos = [
         imagen: "./img/hks hipower.jpg",
         categoria: {
             nombre: "Hi-Flow Exhausts",
-            id: "hi-flow exhausts"
+            id: "Exhausts"
         },
         precio: 220000
     },
@@ -38,7 +38,7 @@ const productos = [
         imagen: "./img/Greddy Revolution RS.jpg",
         categoria: {
             nombre: "HKS Hi-Flow Exhausts",
-            id: "hi-flow exhausts"
+            id: "Exhausts"
         },
         precio: 160000
     },
@@ -49,7 +49,7 @@ const productos = [
         imagen: "./img/RS-Watanabe.jpg",
         categoria: {
             nombre: "Ruedas y Neumaticos",
-            id: "ruedas y neumaticos"
+            id: "Ruedas y Neumaticos"
         },
         precio: 240000
     },
@@ -59,7 +59,7 @@ const productos = [
         imagen: "./img/Toyo Tires.jpg",
         categoria: {
             nombre: "Ruedas y Neumaticos",
-            id: "ruedas y neumaticos"
+            id: "Ruedas y Neumaticos"
         },
         precio: 150000
     },
@@ -69,7 +69,7 @@ const productos = [
         imagen: "./img/Desmon EVO Type R.jpg",
         categoria: {
             nombre: "Ruedas y Neumaticos",
-            id: "ruedas y neumaticos"
+            id: "Ruedas y Neumaticos"
         },
         precio: 850000
     },
@@ -80,7 +80,7 @@ const productos = [
         imagen: "./img/Fuel Injection Rail.jpg",
         categoria: {
             nombre: "Rendimiento",
-            id: "rendimiento"
+            id: "Rendimiento"
         },
         precio: 200000 
     },
@@ -90,7 +90,7 @@ const productos = [
         imagen: "./img/Multiple Skunk2.jpg",
         categoria: {
             nombre: "Rendimiento",
-            id: "rendimiento"
+            id: "Rendimiento"
         },
         precio: 260000 
     },
@@ -100,8 +100,8 @@ const productos = [
         titulo: "Aero Kit Rocket Bunny Nissan",
         imagen: "./img/rocket bunny.jpg",
         categoria: {
-            nombre: "Rendimiento",
-            id: "rendimiento"
+            nombre: "Decoracion y Estetica",
+            id: "Decoracion y Estetica"
         },
         precio: 800000 
 
@@ -111,11 +111,9 @@ const productos = [
         titulo: "Paragolpe IMPUL Nissan GTR",
         imagen: "./img/IMPUL kit.jpg",
         categoria: {
-            nombre: "Rendimiento",
-            id: "rendimiento"
+            nombre: "Decoracion y Estetica",
+            id: "Decoracion y Estetica"
         },
         precio: 800000  
     },
-];
-
-function cargarProductos{} {}
+]
